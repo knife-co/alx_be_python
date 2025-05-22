@@ -6,10 +6,10 @@
 # Calculate the simple interest using the formula provided and store the result in a variable named interest.
 # Print the calculated interest in a format: The simple interest is: [interest].
 
-p = 1000
-r = 0.05
-t = 3
+principal = 1000
+rate = 0.05
+time = 3
 
-simple_interest = (p * r * t)/100
+simple_interest = (principal * rate * time)/100
 
 print(f"The simple interest is {simple_interest}")
