@@ -12,4 +12,4 @@ time = 3
 
 interest = (principal * rate * time)/100
 
-print(f"The simple interest is {interest}")
+print(f"The simple interest is: {interest}")
