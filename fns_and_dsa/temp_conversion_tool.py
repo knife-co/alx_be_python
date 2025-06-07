@@ -18,6 +18,5 @@ elif temperature_unit == "F":
     fahrenheit = int(input("Enter the temperature to convert: "))
     convert_to_celsius(fahrenheit)
 else:
-    print("Wrong temperature unit")
+    print ("Invalid temperature. Please enter a numeric value.")
         
-    
